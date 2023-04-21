@@ -2,7 +2,7 @@
 
 Редирект-Майстер – свій скорочувач посилань для партнерського маркетингу
 
-- :floppy_disk: Версія: 1.4 [Завантажити](https://github.com/pekarskyi/RedirectMaster-UA/releases)
+- :floppy_disk: Версія: 1.4 [Завантажити](https://github.com/pekarskyi/RedirectMaster-UA/releases) :exclamation: В розробці
 - :earth_africa: Мова: українська
 - :scroll: [Опис, відео и FAQ](https://inwebpress.com/uk/redirect-master/)
 - :interrobang: [Поставити запитання / повідомити про проблему](https://github.com/pekarskyi/RedirectMaster-UA/issues)
