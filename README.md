@@ -2,7 +2,7 @@
 
 Редирект-Майстер – свій скорочувач посилань для партнерського маркетингу
 
-- :floppy_disk: Версія: 1.4 [Завантажити](https://github.com/pekarskyi/RedirectMaster-UA/releases) :exclamation: В розробці
+- :floppy_disk: Версія: 1.5 [Завантажити](https://github.com/pekarskyi/RedirectMaster-UA/releases)
 - :earth_africa: Мова: українська
 - :coffee: [Передісторія](https://github.com/pekarskyi/RedirectMaster-UA/wiki/%D0%9F%D0%B5%D1%80%D0%B5%D0%B4%D1%96%D1%81%D1%82%D0%BE%D1%80%D1%96%D1%8F)
 - :scroll: [Опис, відео](https://inwebpress.com/uk/redirect-master/)
@@ -15,10 +15,11 @@
 
 ## :loudspeaker: Requirements
 
+Скрипт невибагливий до ресурсів хостингу і не створює навантаження на сервер.
+
 - PHP: 7.4+ (рекомендую 8.0+)
 - Secure connection (HTTPS) - підключаємо SSL, щоб сайт працював на захищеному протоколі.
 - MySQL
-- Скрипт невимогливий до ресурсів хостингу і не створює навантаження на сервер.
 
 ## :white_check_mark: Install
 
