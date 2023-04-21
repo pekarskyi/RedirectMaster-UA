@@ -7,7 +7,7 @@
 - :scroll: [Опис, відео и FAQ](https://inwebpress.com/uk/redirect-master/)
 - :interrobang: [Поставити запитання / повідомити про проблему](https://github.com/pekarskyi/RedirectMaster-UA/issues)
 
-## :earth_africa: На інших мовах
+## :earth_africa: Languages
 
 - [Російська](https://github.com/pekarskyi/RedirectMaster)
 
