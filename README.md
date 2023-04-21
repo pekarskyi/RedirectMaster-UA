@@ -4,7 +4,8 @@
 
 - :floppy_disk: Версія: 1.4 [Завантажити](https://github.com/pekarskyi/RedirectMaster-UA/releases) :exclamation: В розробці
 - :earth_africa: Мова: українська
-- :scroll: [Опис, відео и FAQ](https://inwebpress.com/uk/redirect-master/)
+- :scroll: [Опис, відео](https://inwebpress.com/uk/redirect-master/)
+- :question: [FAQ](https://github.com/pekarskyi/RedirectMaster-UA/wiki)
 - :interrobang: [Поставити запитання / повідомити про проблему](https://github.com/pekarskyi/RedirectMaster-UA/issues)
 
 ## :earth_africa: Languages
