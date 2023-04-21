@@ -7,9 +7,9 @@
 - :scroll: [Опис, відео и FAQ](https://inwebpress.com/uk/redirect-master/)
 - :interrobang: [Поставити запитання / повідомити про проблему](https://github.com/pekarskyi/RedirectMaster/issues)
 
-## На інших мовах
+## :earth_africa: На інших мовах
 
-- Російська [![GitHub](https://badgen.net/badge/icon/github?icon=github&label)](https://github.com/pekarskyi/RedirectMaster)
+- [Російська](https://github.com/pekarskyi/RedirectMaster)
 
 ## :loudspeaker: Requirements
 
