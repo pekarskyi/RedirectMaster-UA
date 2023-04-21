@@ -11,6 +11,16 @@
 - :question: [FAQ](https://github.com/pekarskyi/RedirectMaster-UA/wiki/FAQ)
 - :interrobang: [Поставити запитання / повідомити про проблему](https://github.com/pekarskyi/RedirectMaster-UA/issues)
 
+## :framed_picture: Screenshots
+
+- [Головна](https://1drv.ms/i/s!AqqMd7ixtOxl8TLLQtbj4Fa6mSUJ?e=FnZaEW)
+- [Створення посилання](https://1drv.ms/i/s!AqqMd7ixtOxl8TRGx23KBFWIh7re?e=8tMKYX)
+- [Користувачі](https://1drv.ms/i/s!AqqMd7ixtOxl8TbGjug-z6Xh3joa?e=piWd6q)
+- [Налаштування](https://1drv.ms/i/s!AqqMd7ixtOxl8TVFJGdWQ2UpoODK?e=pl7qNO)
+- [Про систему](https://1drv.ms/i/s!AqqMd7ixtOxl8TdXK2JSlnm8bdwe?e=fVQx7N)
+- [Авторизація](https://1drv.ms/i/s!AqqMd7ixtOxl8TFLLtKE0DIc1Fjt?e=NjkXGg)
+- [Відновлення паролю](https://1drv.ms/i/s!AqqMd7ixtOxl8TPX787N8CM729Fk?e=534Sa1)
+
 ## :earth_africa: Languages
 
 - [Українська](https://github.com/pekarskyi/RedirectMaster-UA)
