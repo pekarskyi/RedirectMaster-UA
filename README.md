@@ -7,7 +7,9 @@
 - :scroll: [Опис, відео и FAQ](https://inwebpress.com/uk/redirect-master/)
 - :interrobang: [Поставити запитання / повідомити про проблему](https://github.com/pekarskyi/RedirectMaster/issues)
 
-Російськомовна версія скрипта [![GitHub](https://badgen.net/badge/icon/github?icon=github&label)](https://github.com/pekarskyi/RedirectMaster)
+## Інші можлив
+
+- Російськомовна версія скрипта [![GitHub](https://badgen.net/badge/icon/github?icon=github&label)](https://github.com/pekarskyi/RedirectMaster)
 
 ## :loudspeaker: Requirements
 
@@ -62,7 +64,7 @@ Email: admin@mysite.com
 
 Послідовність появи нових змін може бути іншою, ніж зазначено нижче.
 
-- [X] Зробити скрипт доступним і безкоштовним
+- [ ] Зробити скрипт доступним і безкоштовним
 - [ ] Поліпшення зовнішнього вигляду (шрифт, іконки, кнопки)
 - [ ] Перевірка наявності нової версії
 - [ ] Виправлення помилок PHP
