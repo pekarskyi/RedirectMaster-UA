@@ -15,6 +15,7 @@
 
 - [Головна](https://1drv.ms/i/s!AqqMd7ixtOxl8TLLQtbj4Fa6mSUJ?e=FnZaEW)
 - [Створення посилання](https://1drv.ms/i/s!AqqMd7ixtOxl8TRGx23KBFWIh7re?e=8tMKYX)
+- [Статистика переходів по посиланню](https://1drv.ms/i/s!AqqMd7ixtOxl8Tg71SIVwOiX_Rut?e=FZoi0P)
 - [Користувачі](https://1drv.ms/i/s!AqqMd7ixtOxl8TbGjug-z6Xh3joa?e=piWd6q)
 - [Налаштування](https://1drv.ms/i/s!AqqMd7ixtOxl8TVFJGdWQ2UpoODK?e=pl7qNO)
 - [Про систему](https://1drv.ms/i/s!AqqMd7ixtOxl8TdXK2JSlnm8bdwe?e=fVQx7N)
