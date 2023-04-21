@@ -9,7 +9,7 @@
 
 ## На інших мовах
 
-- Російськомовна версія скрипта [![GitHub](https://badgen.net/badge/icon/github?icon=github&label)](https://github.com/pekarskyi/RedirectMaster)
+- Російська [![GitHub](https://badgen.net/badge/icon/github?icon=github&label)](https://github.com/pekarskyi/RedirectMaster)
 
 ## :loudspeaker: Requirements
 
