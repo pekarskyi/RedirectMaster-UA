@@ -10,6 +10,7 @@
 - :scroll: [Опис, відео](https://inwebpress.com/uk/redirect-master/)
 - :question: [FAQ](https://github.com/pekarskyi/RedirectMaster-UA/wiki/FAQ)
 - :interrobang: [Поставити запитання / повідомити про проблему](https://github.com/pekarskyi/RedirectMaster-UA/issues)
+- :man_technologist: [Про себе](https://github.com/pekarskyi)
 
 ## :thumbsup: Кому підійде Редирект-Майстер?
 
