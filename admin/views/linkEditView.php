@@ -36,7 +36,7 @@
 </form>
 
 
-<button class="btn btn-warning btn-sm" id="reset_link">Видалити статистику</button>
+<button class="btn btn-warning btn-sm" id="reset_link">Скинути статистику</button>
 
 
 <?php include 'footer' . $phpExt; ?>

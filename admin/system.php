@@ -41,23 +41,23 @@ $stream_context = stream_context_create([
     $error = false;
     if (phpversion() < "7.4") {
         $error = true;
-        $requirement1 = "<span class='label label-warning'>PHP " . phpversion() . "</span>";
+        $requirement1 = "<span class='label label-warning'>" . phpversion() . "</span>";
     } else {
-        $requirement1 = "<span class='label label-success'>v." . phpversion() . "</span>";
+        $requirement1 = "<span class='label label-success'>" . phpversion() . "</span>";
     }
 
     if (!extension_loaded('mysqli')) {
         $error = true;
-        $requirement2 = "<span class='label label-warning'>Вимкнено</span>";
+        $requirement2 = "<span class='label label-warning'>OFF</span>";
     } else {
-        $requirement2 = "<span class='label label-success'>Увімкнено</span>";
+        $requirement2 = "<span class='label label-success'>ON</span>";
     }
 
     if (!extension_loaded('openssl')) {
         $error = true;
-        $requirement5 = "<span class='label label-warning'>Вимкнено</span>";
+        $requirement5 = "<span class='label label-warning'>OFF</span>";
     } else {
-        $requirement5 = "<span class='label label-success'>Увімкнено</span>";
+        $requirement5 = "<span class='label label-success'>ON</span>";
     }
 
 ?>
@@ -127,7 +127,7 @@ $stream_context = stream_context_create([
         <li>Виправлення помилок PHP</li>
         <li>Створення української версії скрипта</li>
         <li>Перевірка наявності нової версії (Про систему)</li>
-		<li>Перевірка версії PHP і розширень (Про систему)</li>
+	<li>Перевірка версії PHP і розширень (Про систему)</li>
     </ul>
 
 </p>
