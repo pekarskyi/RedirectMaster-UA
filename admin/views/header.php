@@ -16,6 +16,7 @@ include("../inc/config.php");
     <link rel="stylesheet" href="<?php echo $domain_url; ?>/css/bootstrap.min.css" />
     <link rel="stylesheet" href="<?php echo $domain_url; ?>/css/style.css" />
     <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.7.1/css/all.css" crossorigin="anonymous">
+    <link rel="icon" type="image/x-icon" href="/images/link-svgrepo-com.svg">
 
     <script src="<?php echo $domain_url; ?>/js/jquery-3.4.1.min.js"></script>
 
