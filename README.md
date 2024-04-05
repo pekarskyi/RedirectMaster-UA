@@ -116,12 +116,3 @@ Email: admin@mysite.com
 - Перевірка наявності нової версії (Про систему)
 - Перевірка версії PHP і розширень (Про систему)
 ```
-
-## :hearts: Donate
-
-Ви можете підтримати мене як розробника і пожертвувати на розвиток проєкту.
-
-- [Донателло в UAH](https://donatello.to/inwebpress)
-- [Банка від Монобанку в UAH](https://send.monobank.ua/jar/A6cy9eBtcB)
-
-[![Stand With Ukraine](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/badges/StandWithUkraine.svg)](https://sitex.me/standwithukraine)
